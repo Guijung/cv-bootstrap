@@ -1,0 +1,12 @@
+body {
+  background-color: #f6f4f3;
+}
+h1 {
+  color: #6f8e9d;
+  text-align: left;
+}
+.textstyle {
+   color: chocolate;
+  font-size: 60%;
+  text-align: right
+}
